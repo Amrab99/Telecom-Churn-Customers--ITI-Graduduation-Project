@@ -28,8 +28,8 @@ Power BI Analysis:
 
 Tableau Analysis:
 ![Sk_Telecom Overview Dashboard](Screens/tHome.jpg)
-![Sk_Telecom Customer Dashboard](Screens/tcustomer.jpg)
+![Sk_Telecom Customer Dashboard](Screens/tCustomer.jpg)
 ![Sk_Telecom Internet Dashboard](Screens/tInternet.jpg)
 ![Sk_Telecom phone Dashboard](Screens/tPhone.jpg)
-![Sk_Telecom CategoryChurn Dashboard](Screens/tcategory.jpg)
+![Sk_Telecom CategoryChurn Dashboard](Screens/tCategory.jpg)
 ![Sk_Telecom Map Dashboard](Screens/tMap.jpg)
