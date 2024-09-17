@@ -44,4 +44,4 @@ Tableau Analysis:
 Excel Analysis:
 
 ![Sk_Telecom Overview Dashboard](Screens/Screenshot%202024-09-14%20231905.jpg)
-![Sk_Telecom Customer Dashboard](Screenshot%202024-09-14%20231947.jpg)
+![Sk_Telecom Customer Dashboard](Screens/Screenshot%202024-09-14%20231947.jpg)
