@@ -17,6 +17,8 @@ Key Highlights:
 
 This analysis also includes a forward-looking projection (Forecast) for next year, highlighting potential risks if no improvements are made.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Power BI Analysis:
 
 ![Sk_Telecom Overview Dashboard](Screens/Home.jpg)
@@ -26,10 +28,20 @@ Power BI Analysis:
 ![Sk_Telecom CategoryChurn Dashboard](Screens/category.jpg)
 ![Sk_Telecom Map Dashboard](Screens/map.jpg)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Tableau Analysis:
+
 ![Sk_Telecom Overview Dashboard](Screens/tHome.jpg)
 ![Sk_Telecom Customer Dashboard](Screens/tCustomer.jpg)
 ![Sk_Telecom Internet Dashboard](Screens/tInternet.jpg)
 ![Sk_Telecom phone Dashboard](Screens/tPhone.jpg)
 ![Sk_Telecom CategoryChurn Dashboard](Screens/tCategory.jpg)
 ![Sk_Telecom Map Dashboard](Screens/tMap.jpg)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Excel Analysis:
+
+![Sk_Telecom Overview Dashboard](Screens/Screenshot%202024-09-14%20231905.jpg)
+![Sk_Telecom Customer Dashboard](Screenshot%202024-09-14%20231947.jpg)
